@@ -14,6 +14,9 @@ Linkedin:
 You can go to https://medium.com/@cydalytics/written-in-chinese-step-by-step-chinese-word-cloud-with-python-53f57f65be69 for the step-by-step tutorial [ written in Chinese ]
 
 Here are some word cloud examples
+
+![alt text](https://cdn-images-1.medium.com/max/800/1*BVmp6S57SUz6ustK6q_QWA.png)
+
 ![alt text](https://cdn-images-1.medium.com/max/800/1*zObo1mKtGnMan4HtAZaZ4Q.png)
 
 ![alt text](https://cdn-images-1.medium.com/max/800/1*BPtWt_2f8JXEVXJ0fWX6Sg.png)
