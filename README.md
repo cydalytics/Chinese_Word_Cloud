@@ -21,12 +21,9 @@ Here are some word cloud examples
 
 
 ![alt text](https://cdn-images-1.medium.com/max/800/1*zObo1mKtGnMan4HtAZaZ4Q.png)
-<p align="center">plain color</p>
 
 
 ![alt text](https://cdn-images-1.medium.com/max/800/1*BPtWt_2f8JXEVXJ0fWX6Sg.png)
-<p align="center">image color</p>
 
 
 ![alt text](https://cdn-images-1.medium.com/max/800/1*VvodtX760ZPaJkVo8kqWvg.png)
-<p align="center">palettable color set</p>
