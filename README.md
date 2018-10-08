@@ -11,7 +11,8 @@ Linkedin:
 * Carrie Lo - *https://www.linkedin.com/in/carrielsc/*
 ---------------------------------------------------------------------------------------------
 
-You can go to https://medium.com/@cydalytics/written-in-chinese-step-by-step-chinese-word-cloud-with-python-53f57f65be69 for the step-by-step tutorial [ written in Chinese ]
+You can find the Chinese step-by-step tutorial article in below link:
+https://medium.com/@cydalytics/written-in-chinese-step-by-step-chinese-word-cloud-with-python-53f57f65be69
 
 Here are some word cloud examples
 
