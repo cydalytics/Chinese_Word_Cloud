@@ -20,7 +20,7 @@ Here are some word cloud examples
 ![alt text](https://cdn-images-1.medium.com/max/800/1*BVmp6S57SUz6ustK6q_QWA.png)
 
 ![alt text](https://cdn-images-1.medium.com/max/800/1*zObo1mKtGnMan4HtAZaZ4Q.png)
-
+<p align="center">plain color example</p>
 ![alt text](https://cdn-images-1.medium.com/max/800/1*BPtWt_2f8JXEVXJ0fWX6Sg.png)
 
 ![alt text](https://cdn-images-1.medium.com/max/800/1*VvodtX760ZPaJkVo8kqWvg.png)
