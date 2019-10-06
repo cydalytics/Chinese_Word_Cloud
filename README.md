@@ -1,10 +1,11 @@
 # Chinese-Word-Cloud
 *<b>Created by cyda - Yeung Wong & Carrie Lo</b>*
+
 ![alt text](https://2.bp.blogspot.com/-JDCofS2Pvic/WxQCv_XstyI/AAAAAAAAABM/rWHKnG4ItnMULgmO_tWAuGTNL6kAexJlACK4BGAYYCw/s1000/tight%2Bbanner.png)
 ---------------------------------------------------------------------------------------------
-### Please acknowledge team cyda - Yeung Wong and Carrie Lo when using the code
+#### Please acknowledge team cyda - Yeung Wong and Carrie Lo when using the code
 
-### If you find this script is helpful, please feel free to endorse us through Linkedin!
+#### If you find this script is helpful, please feel free to endorse us through Linkedin!
 Linkedin:
 
 * Yeung Wong - *https://www.linkedin.com/in/yeungwong/*
@@ -13,7 +14,7 @@ Linkedin:
 
 You can find the Chinese step-by-step tutorial article in below link:
 
-https://medium.com/@cydalytics/written-in-chinese-step-by-step-chinese-word-cloud-with-python-53f57f65be69
+https://medium.com/@yeung_cyda/written-in-chinese-step-by-step-chinese-word-cloud-with-python-53f57f65be69?source=friends_link&sk=5194e7fadf63033934fae9111ef76a98
 
 Here are some word cloud examples
 
