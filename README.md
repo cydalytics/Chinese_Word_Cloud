@@ -9,7 +9,6 @@
 Linkedin:
 
 * Yeung Wong - *https://www.linkedin.com/in/yeungwong/*
-* Carrie Lo - *https://www.linkedin.com/in/carrielsc/*
 ---------------------------------------------------------------------------------------------
 ## Project Description
 This project is to build a wordcloud in Chinese with arbitrary shape and tailored color.
