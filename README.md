@@ -15,7 +15,7 @@ This project is to build a wordcloud in Chinese with arbitrary shape and tailore
 ## Project Details
 To check the tutorial article, please click [here](https://medium.com/@yeung_cyda/written-in-chinese-step-by-step-chinese-word-cloud-with-python-53f57f65be69).
 
-The package we leveraged is called "wordcloud". To know more about the package, you can refer to the docunment [here](https://amueller.github.io/word_cloud/index.html).
+The package we leveraged is called `wordcloud`. To know more about the package, you can refer to the docunment [here](https://amueller.github.io/word_cloud/index.html).
 
 I have also put the material in Kaggle kernel, if you wish to run the program and check the result, please visit [https://www.kaggle.com/yeungcyda/customized-wordcloud](https://www.kaggle.com/yeungcyda/customized-wordcloud)!
 
